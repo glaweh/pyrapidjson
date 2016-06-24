@@ -2,8 +2,8 @@ from distutils.core import setup, Extension
 
 
 setup(
-    name='pyrapidjson',
-    version='0.3.1+glaweh0',
+    name='pyrapidjson-glaweh',
+    version='0.3.1',
     description='Python Interface for rapidjson(JSON parser and generator).',
     long_description=open('README.rst').read(),
     license='Expat License',
